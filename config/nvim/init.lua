@@ -1,0 +1,6 @@
+require("options")
+require("keymaps")
+require("commands")
+require("plugins")
+require("lspconfigs")
+require("cmps")
