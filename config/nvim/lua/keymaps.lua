@@ -22,8 +22,8 @@ keymap("n", "<Leader>v", ":<C-u>vsplit<CR>", opts)
 keymap("i", "jj", "<ESC>", opts)
 
 -- Command key
-keymap("n", ";", ":")
-keymap("n", ":", ";")
+--keymap("n", ";", ":")
+--keymap("n", ":", ";")
 
 -- Switch window
 keymap("n", "<C-l>", "<C-w>l", opts)
